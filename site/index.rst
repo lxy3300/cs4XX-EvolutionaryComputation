@@ -78,6 +78,9 @@ YouTube
     student-lectures/description
     student-lectures/novelty-search/novelty-search
     student-lectures/cultural-algorithms/cultural-algorithms
+    student-lectures/Artificial-Life/artificial_life
+    student-lectures/Memetic-Algorithms/Memetic-Algorithms
+    student-lectures/Differential_Evolution/Differential_Evolution
 
 
 .. toctree::
@@ -101,5 +104,5 @@ YouTube
 .. toctree::
     :caption: Outline
     :maxdepth: 1
- 
+
     /outline/outline
